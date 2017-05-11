@@ -53,10 +53,10 @@ group :development do
   gem 'sqlite3'
 end
 
-roup :production do
+group :production do
 
   gem 'pg'
-  gem 'rails-12factor'
+  gem 'rails_12factor'
 end
 
 
